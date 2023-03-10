@@ -6,6 +6,6 @@ Hi, I’m @ElouanSavy a passionate developer based in Bordeaux. :fr:
 
 :globe_with_meridians: Visit [my website](https://www.elouan-savy.com)
 
-:mailbox_with_no_mail: Contact me at [elouan.savy-camaret@epitech.eu](mailto:elouan.savy-camaret@epitech.eu)
+:mailbox_with_no_mail: Contact me at [contact@elouan-savy.com](mailto:contact@elouan-savy.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElouanSavy&show_icons=true&theme=dark)

@@ -1,4 +1,4 @@
-Hi, I’m @ElouanSavy a passionate developer based in Bordeaux. :fr:
+Hi, I’m @ElouanSavy a freelance developer based in Bordeaux. :fr:
 
 + :mortar_board: I'm currently studying at EPITECH.
 + :rocket: I'm currently learning __Nodejs__ & __TypeScript__.

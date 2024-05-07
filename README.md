@@ -11,6 +11,6 @@ Hi, I’m @ElouanSavy a fullstack developer based in Bordeaux. :fr:
 
 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,swift,next,react,nodejs,adonis,,graphql,prisma,cpp,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,swift,next,react,nodejs,adonis,graphql,prisma,cpp,docker,figma)](https://skillicons.dev)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElouanSavy&theme=tokyonight" alt="mystreak"/>

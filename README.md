@@ -1,7 +1,7 @@
-<h2>Hi, I’m @ElouanSavy a passionate developer based in Bordeaux. :fr: </h2>
+<h2>Hi, I’m @ElouanSavy a passionate full stack developer based in Bordeaux. :fr: </h2>
 
 + :rocket: Mainly working in `TypeScript`.
-+ :computer: Currently learning about `Go`.
++ :computer: Currently learning about `Swift`.
 + :seedling: Working on personal projects that are coming soon.
 + :cyclone: Interested in: `web` and `mobile` development, `cloud`, `backend`
 
@@ -12,7 +12,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 <h3>Backend</h3>
 

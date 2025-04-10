@@ -1,7 +1,7 @@
 <h2>Hi, I’m @ElouanSavy a passionate full stack developer based in Bordeaux. :fr: </h2>
 
 + :rocket: Mainly working in `TypeScript`.
-+ :computer: Currently learning about `Swift`.
++ :computer: Currently learning about `Kotlin`.
 + :seedling: Working on personal projects that are coming soon.
 + :cyclone: Interested in: `web` and `mobile` development, `cloud`, `backend`
 

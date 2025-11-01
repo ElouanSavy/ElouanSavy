@@ -3,20 +3,22 @@
 + :rocket: Mainly working in `TypeScript`.
 + :computer: Currently learning about `Kotlin`.
 + :seedling: Working on personal projects that are coming soon.
-+ :cyclone: Interested in: `web` and `mobile` development, `cloud`, `backend`
++ :cyclone: Interested in: `backend` development, `cloud`, `ai`, `system design` 
 
 <h2>My tech stack</h2>
 
 <h3>Languages</h3>
 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <h3>Backend</h3>
 
+![KTOR](https://img.shields.io/badge/Ktor-087CFA.svg?style=for-the-badge&logo=Ktor&logoColor=white)
 ![Adonis](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Spring Boot](	https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 <h3>Frontend</h3>
 
@@ -30,6 +32,8 @@
 
 <h3>Various</h3>
 
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
